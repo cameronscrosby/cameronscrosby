@@ -1,1 +1,1 @@
-drones, ai, computer vision, HFT, blockchain
+ai, computer vision, HFT, blockchain
