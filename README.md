@@ -1,1 +1,1 @@
-ai, HFTs, blockchain
+ai, HFT, blockchain
