@@ -1,1 +1,1 @@
-ai, computer vision, HFT, blockchain
+ai, HFTs, blockchain
